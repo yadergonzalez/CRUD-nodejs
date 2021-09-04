@@ -1,0 +1,2 @@
+npm install express mysql express-myconnection morgan ejs
+npm install nodemon -D
